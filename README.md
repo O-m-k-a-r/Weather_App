@@ -34,7 +34,7 @@ Ensure you have the following installed:
    ```bash
       git clone https://github.com/O-m-k-a-r/Weather_App.git
 2. ```
-         cd backend
+         cd weatherApp_backend
    ```
          npm install
    ```
