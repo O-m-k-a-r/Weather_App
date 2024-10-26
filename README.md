@@ -42,14 +42,14 @@ Ensure you have the following installed:
 
 
 ## Running the command
-1. backend
+1. weatherApp_backend
    ```
-       cd backend
+       cd weatherApp_backend
    ```
        nodemon index_server.js
-2. reactapp
+2. client
    ```
-       cd reactapp
+       cd client
    ```
        npm start
 
